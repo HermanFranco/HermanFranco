@@ -1,11 +1,7 @@
-- 👋  Hi! I’m Herman Franco, a web developer, working remotely creating a web app to parcels administration for an agricultural company.
-
-I have more than 5 years of experience among different areas like digital design, digital marketing, front-end development, and my current role as full stack developer.
-
-On this days I have been updating myself to work with MERN, within the last weeks I have been researching, studying, creating prototypes, and coding.
+- 👋  Hi! I’m Herman Franco.
 
 Outside of work you will find me watching or playing soccer, videogames, and sharing with my family.
-- 🌱 I’m currently learning ... MERN
+- 🌱 I’m currently learning ... Cybersecurity
 - 📫 How to reach me ... herman.franco@d-hfi.com
 
 
